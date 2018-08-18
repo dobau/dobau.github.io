@@ -10,4 +10,4 @@ Chrome
 
 ## Goodies
 
-**http://dahlbyk.github.io/posh-git/** - Tool to autocomplete git on windows PowerShell
+[**Posh-Git**](http://dahlbyk.github.io/posh-git/) - Tool to autocomplete git on windows PowerShell
