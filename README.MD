@@ -8,6 +8,9 @@ VirtualBox -
 Git  
 Chrome  
 
-## Goodies
+
+## Dev
 
 [**Posh-Git**](http://dahlbyk.github.io/posh-git/) - Tool to autocomplete git on windows PowerShell
+[**Soap-UI**](https://www.soapui.org/downloads/thank-you-for-downloading-soapui.html)
+[**Node**](https://nodejs.org/en/download/)
